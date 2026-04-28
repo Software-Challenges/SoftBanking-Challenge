@@ -21,8 +21,8 @@ Ambos se conectan a una base de datos **PostgreSQL** compartida y pueden ejecuta
 
 ## Repositorios
 
-- [TechnicalTest-SoftBanking-IdentityService](https://github.com/Software-Challenges/SoftBanking-IdentityService.git)  
-- [TechnicalTest-SoftBanking-AccountService](https://github.com/Software-Challenges/SoftBanking-AccountService.git)  
+- [SoftBanking-IdentityService](https://github.com/Software-Challenges/SoftBanking-IdentityService.git)  
+- [SoftBanking-AccountService](https://github.com/Software-Challenges/SoftBanking-AccountService.git)  
 
 ---
 
